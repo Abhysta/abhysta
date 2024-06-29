@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm M. Abhysta Huda A</h1>
-<h3 align="center">A passionate Software Quality Assurance from Indonesian</h3>
+<h3 align="center">A passionate Web Developer and Software Quality Assurance from Indonesian</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhysta&label=Profile%20views&color=0e75b6&style=flat" alt="abhysta" /> </p>
 
-- 🌱 I’m currently learning **Cypress, Selenium, Appium, and Robot Framework**
+- 🌱 I’m currently learning **TypeScript, React Js, and Next Js**
 
 - 📫 How to reach me **abhystahuda123@gmail.com**
 
