@@ -18,7 +18,7 @@ Software Engineer • Backend Developer • Laravel Enthusiast
 
 ---
 
-<table>
+<table width="100%">
 
 <tr>
 
