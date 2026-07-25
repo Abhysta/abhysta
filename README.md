@@ -1,16 +1,178 @@
-<h1 align="center">Hi 👋, I'm M. Abhysta Huda A</h1>
-<h3 align="center">A passionate Web Developer and Software Quality Assurance from Indonesian</h3>
+<p align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhysta&label=Profile%20views&color=0e75b6&style=flat" alt="abhysta" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=M.%20Abhysta%20Huda&fontSize=50&fontAlignY=40"/>
 
-- 🌱 I’m currently learning **TypeScript, React Js, and Next Js**
-
-- 📫 How to reach me **abhystahuda123@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/a.bhysta19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a.bhysta19" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+<h1 align="center">Hi 👋 I'm M. Abhysta Huda</h1>
+
+<h3 align="center">
+Software Engineer • Backend Developer • Laravel Enthusiast
+</h3>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=23&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Laravel+Developer;Backend+Engineer;Node.js+Developer;System+Design+Learner;AI+Enthusiast;Always+Learning"/>
+
+</p>
+
+---
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 👨 Code Portrait
+<img src="Gemini_Generated_Image_kf065lkf065lkf06.png" width="350"/>
+
+</td>
+
+<td width="50%">
+
+# 📊 Personal Dashboard
+
+👤 **Name**
+
+M. Abhysta Huda
+
+---
+
+💼 **Role**
+
+Software Engineer
+
+---
+
+🚀 **Specialization**
+
+Backend Development
+
+Laravel • Node.js • PHP
+
+---
+
+🧠 **Interested In**
+
+• AI Engineering
+
+• System Design
+
+• Clean Architecture
+
+• Cloud Computing
+
+---
+
+⚡ **Skill Level**
+
+Laravel
+
+███████████████░░ 95%
+
+PHP
+
+██████████████░░░ 90%
+
+Node.js
+
+█████████████░░░░ 85%
+
+Prisma
+
+████████████░░░░░ 82%
+
+MySQL
+
+██████████████░░░ 90%
+
+Docker
+
+███████████░░░░░░ 75%
+
+Linux
+
+████████████░░░░░ 80%
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🚀 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=laravel,php,nodejs,express,nextjs,react,tailwind,bootstrap,prisma,mysql,postgres,redis,docker,linux,git,github,vscode,figma"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 💼 Featured Projects
+
+| 🚀 Project | Description |
+|------------|-------------|
+| 🎓 Training Management System | Laravel-based training platform |
+| 🔐 SSO Platform | Keycloak + Next.js |
+| 📜 Certificate Generator | Dynamic PDF generation |
+| 📊 Assessment System | Evaluation & scoring application |
+| 🤖 AI Playground | AI and Machine Learning experiments |
+
+---
+
+# 📚 Currently Learning
+
+```text
+██████████████████░░ Laravel 12
+
+████████████████░░░ AI Engineering
+
+███████████████░░░░ System Design
+
+████████████████░░░ Docker
+
+██████████████░░░░ Cloud Computing
+```
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/USERNAME">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://linkedin.com/in/USERNAME">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:you@example.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=abhysta&style=for-the-badge&color=blue"/>
+
+</p>
