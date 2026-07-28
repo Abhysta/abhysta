@@ -123,18 +123,6 @@ Linux
 
 ---
 
-# 💼 Featured Projects
-
-| 🚀 Project | Description |
-|------------|-------------|
-| 🎓 Training Management System | Laravel-based training platform |
-| 🔐 SSO Platform | Keycloak + Next.js |
-| 📜 Certificate Generator | Dynamic PDF generation |
-| 📊 Assessment System | Evaluation & scoring application |
-| 🤖 AI Playground | AI and Machine Learning experiments |
-
----
-
 # 📚 Currently Learning
 
 ```text
