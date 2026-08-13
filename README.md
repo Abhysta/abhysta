@@ -4,163 +4,118 @@
 
 </p>
 
-<h1 align="center">Hi 👋 I'm M. Abhysta Huda</h1>
+<div align="center">
 
-<h3 align="center">
-Software Engineer • Backend Developer • Laravel Enthusiast
-</h3>
+### `Full Stack Developer` · `Open Source Enthusiast` · `Tech Explorer`
 
-<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+things+that+matter+%F0%9F%9A%80;Learning+something+new+every+day+%F0%9F%93%9A;Turning+ideas+into+reality+%F0%9F%92%A1;Welcome+to+my+GitHub!+%F0%9F%91%8B" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=23&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Laravel+Developer;Backend+Engineer;Node.js+Developer;System+Design+Learner;AI+Enthusiast;Always+Learning"/>
+<br/>
 
-</p>
+<a href="https://github.com/abhysta">
+  <img src="https://komarev.com/ghpvc/?username=abhysta&label=Profile%20Views&color=0e75b6&style=flat" />
+</a>
 
----
+<a href="https://github.com/abhysta?tab=followers">
+  <img src="https://img.shields.io/github/followers/abhysta?label=Followers&style=flat&color=0e75b6" />
+</a>
 
-<table width="100%" align="center">
-
-<tr>
-
-<td width="50%">
-
-## 👨 Code Portrait
-<img src="Gemini_Generated_Image_kf065lkf065lkf06.png" width="350"/>
-
-</td>
-
-<td width="50%">
-
-# 📊 Personal Dashboard
-
-👤 **Name**
-
-M. Abhysta Huda
+</div>
 
 ---
 
-💼 **Role**
+<div align="center">
 
-Software Engineer
+## 🧑‍💻 About Me
 
----
+I'm a developer who enjoys turning **ideas into useful products**.
 
-🚀 **Specialization**
-
-Backend Development
-
-Laravel • Node.js • PHP
-
----
-
-🧠 **Interested In**
-
-• AI Engineering
-
-• System Design
-
-• Clean Architecture
-
-• Cloud Computing
-
----
-
-⚡ **Skill Level**
-
-Laravel
-
-███████████████░░ 95%
-
-PHP
-
-██████████████░░░ 90%
-
-Node.js
-
-█████████████░░░░ 85%
-
-Prisma
-
-████████████░░░░░ 82%
-
-MySQL
-
-██████████████░░░ 90%
-
-Docker
-
-███████████░░░░░░ 75%
-
-Linux
-
-████████████░░░░░ 80%
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 🚀 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=laravel,php,nodejs,express,nextjs,react,tailwind,bootstrap,prisma,mysql,postgres,redis,docker,linux,git,github,vscode,figma"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=abhysta&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📚 Currently Learning
+I love exploring new technologies, building side projects,
+and continuously improving my skills.
 
 ```text
-██████████████████░░ Laravel 12
-
-████████████████░░░ AI Engineering
-
-███████████████░░░░ System Design
-
-████████████████░░░ Docker
-
-██████████████░░░░ Cloud Computing
+💻 Code        →  Build
+🧠 Learn       →  Improve
+🚀 Experiment  →  Repeat
 ```
 
+</div>
+
+<br/>
+
+<div align="center">
+
+## ⚡ Tech Stack
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,php" />
+
+### Frameworks & Libraries
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,laravel,tailwind,cypress" />
+
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+
+</div>
+
 ---
 
-# 📫 Connect With Me
+<div align="center">
 
-<p align="center">
+## 📊 GitHub Statistics
 
-<a href="https://github.com/USERNAME">
-<img src="https://skillicons.dev/icons?i=github"/>
+<a href="https://github.com/abhysta">
+
+<img height="180"
+src="https://github-stats-extended.vercel.app/api?username=abhysta&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"
+/>
+
+<img height="180"
+src="https://github-stats-extended.vercel.app/api/top-langs/?username=abhysta&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"
+/>
+
 </a>
 
-<a href="https://linkedin.com/in/USERNAME">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:you@example.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-</p>
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=abhysta&style=for-the-badge&color=blue"/>
+## 📈 Contribution Graph
 
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhysta&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+
+<div align="center">
+
+## 💬 Let's Connect
+
+<a href="https://instagram.com/ays.taaa">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:abhystahuda123@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+### ✨ *"Code. Create. Learn. Repeat."*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:7C3AED&height=120&section=footer"/>
+
+</div>
